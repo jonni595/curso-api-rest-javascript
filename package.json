@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-rest-javascript",
+  "version": "1.0.0",
+  "description": "Curso Práctico de consumo de API REST con  Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonni595/curso-api-rest-javascript.git"
+  },
+  "author": "@jonathandajome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonni595/curso-api-rest-javascript/issues"
+  },
+  "homepage": "https://github.com/jonni595/curso-api-rest-javascript#readme"
+}
